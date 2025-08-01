@@ -1,4 +1,4 @@
-Project Title: Smart Health Monitoring System
+Smart Health Monitoring System
 
 This project involves the design and implementation of a portable, microcontroller-based Smart Health Monitoring System using Arduino Uno. 
 The system integrates a MAX30102 pulse oximeter sensor and an LM35 temperature sensor to continuously monitor heart rate (BPM), blood oxygen saturation (SpO₂), and body temperature. 
